@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1573537964 source:/home/fish/workspace/ex81/main.c
+	<stdio.h>
+	<signal.h>
+	<stdlib.h>
+	<unistd.h>
+

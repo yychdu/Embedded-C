@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1575978915 source:/home/fish/workspace/4b/main.c
+	<stdio.h>
+	<stdlib.h>
+

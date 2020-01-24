@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1575990648 source:/home/fish/桌面/arm_num_juzhen/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1576556749 source:/home/fish/workspace/arm_num_juzhen/main.c
+	<stdio.h>
+	<stdlib.h>
+

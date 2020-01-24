@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1575958566 source:/home/fish/workspace/ex10/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sqlite3.h>
+
+1575958314 /opt/sqlite3/include/sqlite3.h
+	<stdarg.h>
+

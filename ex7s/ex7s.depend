@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1576042107 source:/home/fish/workspace/ex7s/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<string.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<time.h>
+	<string.h>
+	<sys/ioctl.h>
+	<arpa/inet.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1571914637 source:/home/fish/workspace/fo1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<errno.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<dirent.h>
+	<time.h>
+

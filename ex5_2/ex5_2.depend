@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1572937438 source:/home/fish/workspace/ex5_2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<pthread.h>
+
